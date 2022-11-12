@@ -1,8 +1,8 @@
 ## Olá. Meu nome é Clayton e aqui você vai encontrar minha evolução aos pouquinhos na linguagem Java e em breve outras linguagens!👻☕
 <div align="center">
   <a href="https://github.com/GhostRiley115">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GhostRiley115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostRiley115&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GhostRiley115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostRiley115&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Clayton-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
