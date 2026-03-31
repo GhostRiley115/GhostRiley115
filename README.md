@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Clayton 👋
 
-<!--
-**GhostRiley115/GhostRiley115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer | Java | Kotlin | Spring Boot
 
-Here are some ideas to get you started:
+I’m a backend developer focused on building real-world applications using Java and Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing a store management system for a real business, applying backend concepts such as REST APIs, database integration, and layered architecture.
+
+---
+
+## Tech Stack
+
+- **Languages:** Java, Kotlin  
+- **Frameworks:** Spring Boot  
+- **Databases:** MySQL, SQL  
+- **Tools:** Git, GitHub, Trello  
+- **Concepts:** REST APIs, CRUD, MVC  
+
+---
+
+## Featured Projects
+
+🔹 **Store Management System (in progress)**  
+Backend system built with Kotlin + Spring Boot for real-world usage.
+
+🔹 **Shopping Cart API**  
+REST API built with Java + Spring Boot implementing CRUD operations.
+
+🔹 **TechStart Website**  
+Responsive website built with HTML, CSS, and JavaScript.
+
+---
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/claytondebrito
