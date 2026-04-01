@@ -29,6 +29,9 @@ REST API built with Java + Spring Boot implementing CRUD operations.
 🔹 **TechStart Website**  
 Responsive website built with HTML, CSS, and JavaScript.
 
+🔹 **Desktop Management System (C#)**  
+Desktop application built with C# and Windows Forms featuring login system, product and event management, and a complete CRUD interface.
+
 ---
 
 ## Contact
