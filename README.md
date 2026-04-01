@@ -28,7 +28,7 @@ REST API built with Java + Spring Boot implementing CRUD operations.
 
 🔹 **TechStart Website**  
 Responsive website built with HTML, CSS, and JavaScript.  
-Live demo: https://ghostriley115.github.io/techstart-projeto-final/  
+Live demo: https://ghostriley115.github.io/techstart-landing-page/
 Simulates a real company landing page with structured sections and responsive design.
 
 🔹 **Desktop Management System (C#)**  
