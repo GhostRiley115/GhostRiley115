@@ -27,7 +27,9 @@ Backend system built with Kotlin + Spring Boot for real-world usage.
 REST API built with Java + Spring Boot implementing CRUD operations.
 
 🔹 **TechStart Website**  
-Responsive website built with HTML, CSS, and JavaScript.
+Responsive website built with HTML, CSS, and JavaScript.  
+Live demo: https://ghostriley115.github.io/techstart-projeto-final/  
+Simulates a real company landing page with structured sections and responsive design.
 
 🔹 **Desktop Management System (C#)**  
 Desktop application built with C# and Windows Forms featuring login system, product and event management, and a complete CRUD interface.
