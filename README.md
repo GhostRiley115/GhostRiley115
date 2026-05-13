@@ -21,7 +21,7 @@ Currently developing a store management system for a real business, applying bac
 ## Featured Projects
 
 🔹 **Store Management System (in progress)**  
-Backend system built with Kotlin + Spring Boot for real-world usage.
+Backend system built with Java + Spring Boot for real-world usage.
 
 🔹 **Shopping Cart API**  
 REST API built with Java + Spring Boot implementing CRUD operations.
