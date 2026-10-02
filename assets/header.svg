@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Clayton Brito — Backend, web e mobile">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2c"/><stop offset="1" stop-color="#172e40"/></linearGradient><linearGradient id="line"><stop stop-color="#61dec4"/><stop offset="1" stop-color="#72b7fc"/></linearGradient></defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<g fill="none" stroke="#5cc7d3" opacity=".13"><circle cx="1030" cy="155" r="210"/><circle cx="1030" cy="155" r="155"/><circle cx="1030" cy="155" r="100"/><path d="M810 0v330M920 0v330M1030 0v330M1140 0v330M760 55h440M760 155h440M760 255h440"/></g>
+<rect x="54" y="49" width="33" height="4" rx="2" fill="#61dec4"/>
+<text x="54" y="92" fill="#91afc3" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">CÓDIGO. CONEXÕES. POSSIBILIDADES.</text>
+<text x="50" y="163" fill="#f3f6f8" font-family="Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Clayton Brito<tspan fill="#61dec4">.</tspan></text>
+<text x="54" y="207" fill="#c4d5df" font-family="Arial,sans-serif" font-size="22">Backend como foco. Produtos completos como direção.</text>
+<g font-family="monospace" font-size="13" fill="#c6e4e6"><text x="54" y="270">JAVA / SPRING BOOT</text><text x="270" y="270">C# / .NET</text><text x="419" y="270">KOTLIN</text><text x="534" y="270">REACT</text></g>
+<rect x="877" y="81" width="243" height="163" rx="16" fill="#122331" stroke="#4e7a8b" transform="rotate(-8 998 162)"/>
+<text x="916" y="182" font-family="monospace" font-size="74" font-weight="700" fill="url(#line)">&lt;/&gt;</text>
+<circle cx="1117" cy="69" r="10" fill="#61dec4"/><path d="M872 248v26m-13-13h26" stroke="#72b7fc" stroke-width="3"/>
+</svg>
